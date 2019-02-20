@@ -1,0 +1,5 @@
+{
+    "tableName": "ImpulseTable",
+    "partitionKeyName": "id",
+    "partitionKeyType": "S"
+}

@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "impulseamplifynative-20190220235645-authRole",
+            "UnauthRoleArn": "arn:aws:iam::374945779384:role/impulseamplifynative-20190220235645-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::374945779384:role/impulseamplifynative-20190220235645-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "impulseamplifynative-20190220235645-deployment",
+            "UnauthRoleName": "impulseamplifynative-20190220235645-unauthRole",
+            "StackName": "impulseamplifynative-20190220235645",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:374945779384:stack/impulseamplifynative-20190220235645/36da3b40-34fe-11e9-96c1-06ec3aebdaac"
+        }
+    }
+}

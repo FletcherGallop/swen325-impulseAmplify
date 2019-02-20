@@ -1,0 +1,8 @@
+{
+	"storage": {
+		"impulses": {
+			"service": "DynamoDB",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
